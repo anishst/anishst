@@ -1,6 +1,8 @@
 ### Hi there Welcome to my GitHub Repo 👋
 
 You will find many projects that I am working on here.
+
+- 🌱 I’m currently learning about Jenkins Pipeline and Docker Containers
 <!--
 **anishst/anishst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
