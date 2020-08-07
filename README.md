@@ -10,6 +10,7 @@ You will find many projects that I am working on here.
   <code><img src="https://img.icons8.com/color/48/000000/python.png"/></code>
   <code><img src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
   <code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+  <code><img src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
   <code><img src="https://img.icons8.com/color/48/000000/jenkins.png"/></code>
     <code><img src="https://img.icons8.com/color/48/000000/docker.png"/></code>
 
