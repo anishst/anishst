@@ -1,4 +1,4 @@
-### Hi there Welcome to my GitHub Repo 👋
+### Hi! Welcome to my GitHub Repo 👋
 
 You will find many projects that I am working on here.
 
