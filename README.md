@@ -16,6 +16,7 @@ You will find many projects that I am working on here.
     <code><img src="https://img.icons8.com/color/48/000000/docker.png"/></code>
 
 <a href="https://anishst.github.io/">My Experience Summary</a>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="anishst"><a class="LI-simple-link" href='https://www.linkedin.com/in/anishst?trk=profile-badge'>Anish Sebastian</a></div>
 
