@@ -17,6 +17,8 @@ You will find many projects that I am working on here.
 
 <a href="https://anishst.github.io/">My Experience Summary</a>
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="anishst"><a class="LI-simple-link" href='https://www.linkedin.com/in/anishst?trk=profile-badge'>Anish Sebastian</a></div>
+
 <!--
 **anishst/anishst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
