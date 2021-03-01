@@ -2,7 +2,7 @@
 
 You will find many projects that I am working on here.
 
-- 🌱 I’m currently learning about Jenkins Pipeline and Docker Containers
+- 🌱 I’m currently learning about Jenkins Pipeline, Docker Containers, and Django Framework
 
   #### 👨🏻‍💻 Languages and Tools <br />
 
