@@ -36,4 +36,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anish''s GitHub stats](https://github-readme-stats.vercel.app/api?username=anishst)](https://github.com/anishst/github-readme-stats)
