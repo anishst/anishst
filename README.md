@@ -2,8 +2,6 @@
 
 You will find many projects that I am working on here.
 
-- 🌱 I’m currently learning about Cypress and Django Framework
-
   #### 👨🏻‍💻 Languages and Tools <br />
 
   <!-- img source https://icons8.com/icons -->
