@@ -21,7 +21,7 @@
 
 ---
 
-📫 **Get in touch:** [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anishst))
+📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/anishst)
 
 <!--
 **anishst/anishst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
