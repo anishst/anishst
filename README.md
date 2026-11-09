@@ -9,7 +9,7 @@
 * **18+ Years in Quality Engineering:** Proven track record leading test management, enterprise migrations, and Section 508 compliance.
 * **AI & Machine Learning:** Architecting edge AI applications, RAG pipelines, and automated triaging systems using Ollama, ChromaDB, and LangChain.
 * **Full-Stack & Data Tooling:** Building custom Python utilities (FastAPI, Pandas, Streamlit) to automate enterprise workflows and reporting.
-
+* For more info see [my Github page](https://anishst.github.io/)
 ---
 
 ### 🔧 Tech Stack
