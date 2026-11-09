@@ -1,11 +1,27 @@
-### Hi! Welcome to my GitHub Repo 👋
+# Anish Sebastian 
+## Senior Quality Engineering Lead & AI QA Architect
 
-You will find many projects that I am working on here.
+> Transforming software delivery through AI-driven test frameworks, scalable performance testing, and developer productivity tools.
 
-<a href="https://anishst.github.io/">My Experience Summary</a>
+---
 
+### 📋 Executive Summary
+* **18+ Years in Quality Engineering:** Proven track record leading test management, enterprise migrations, and Section 508 compliance.
+* **AI & Machine Learning:** Architecting edge AI applications, RAG pipelines, and automated triaging systems using Ollama, ChromaDB, and LangChain.
+* **Full-Stack & Data Tooling:** Building custom Python utilities (FastAPI, Pandas, Streamlit) to automate enterprise workflows and reporting.
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="anishst"><a class="LI-simple-link" href='https://www.linkedin.com/in/anishst?trk=profile-badge'>LinkedIn Profile - Anish Sebastian</a></div>
+---
+
+### 🔧 Tech Stack
+
+- **Testing & QA:** Pytest, Playwright, Selenium WebDriver, JMeter, Azure Load Testing, WCAG / Section 508
+- **AI & Data Engineering:** Ollama, ChromaDB, Qdrant, Pydantic AI, Pandas, Polars
+- **Backend & Web:** Python, FastAPI, Flask, REST APIs, HTML/CSS, Streamlit
+- **DevOps & Environment:** Azure DevOps, Git, GitHub Actions, `uv`
+
+---
+
+📫 **Get in touch:** [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anishst))
 
 <!--
 **anishst/anishst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
